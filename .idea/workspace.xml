@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78ad9081-9956-4e05-bdd8-edb2d6cba6da" name="Changes" comment="add Cat class" />
+    <list default="true" id="78ad9081-9956-4e05-bdd8-edb2d6cba6da" name="Changes" comment="add Cat class">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/romanovdenis/spring/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/romanovdenis/spring/App.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +24,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GithubDefaultAccount">
-    <option name="defaultAccountId" value="881a886a-aa35-44ca-bfd6-7417d257e9c2" />
+    <option name="defaultAccountId" value="87c1ed15-a8ba-48cf-9753-d3892e3275d6" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -46,7 +49,7 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.AppTest.mainTest">
+  <component name="RunManager" selected="Application.App">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.romanovdenis.spring.App" />
       <module name="com.romanovdenis.spring" />
@@ -93,9 +96,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.App" />
         <item itemvalue="JUnit.AppTest.mainTest" />
         <item itemvalue="JUnit.AppTest" />
-        <item itemvalue="Application.App" />
       </list>
     </recent_temporary>
   </component>
@@ -122,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672754339302</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add Cat class">
+      <created>1672764767565</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1672764767565</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
